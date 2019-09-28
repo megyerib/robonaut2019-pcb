@@ -1,0 +1,18 @@
+History/
+__Previews/
+
+*.ini
+
+*.log
+*.Dat
+*.PrjPCBStructure
+*.PrjPcbStructure
+*.PrjMbdStructure
+Status Report.Txt
+
+BOM/
+STEP/
+PDF/
+Gerbers/
+
+*.htm
